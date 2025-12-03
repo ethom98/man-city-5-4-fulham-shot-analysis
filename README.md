@@ -41,5 +41,8 @@ The cleaned dataset (`shots.csv`) is included in this repo for reproducibility.
 ## 📄 Report  
 The full PDF match analysis can be found in:  
 `/report/ManCity_Fulham_ShotAnalysis.pdf`
+and... 
+👉 [Man City vs Fulham — Shot Analysis PDF](report/ManCity_Fulham_ShotAnalysis.pdf)
+
 
 
